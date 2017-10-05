@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="trigger" type="PLAIN_TEXT" />
+      <mapping pattern="checkoxes_dropdown" type="Twig" />
     </extensionMap>
   </component>
 </application>
