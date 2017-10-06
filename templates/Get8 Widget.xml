@@ -39,4 +39,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="gettpl" value="/**&#10;         * Вернуть html на основе встроенного twig-шаблона&#10;         *&#10;         * @param template string  - имя шаблона&#10;         * @param callback object  - функция в которой и происходит рендер шаблона&#10;         * @return string&#10;         */&#10;        this.getTemplate = function (template, callback) {&#10;            template = template || '';&#10;&#10;            return self.render({&#10;                href      : baseTemplates + template + '.twig',&#10;                base_path : '/',&#10;                v         : version,&#10;                load      : callback&#10;            }, {});&#10;        };&#10;" description="Вернуть html на основе встроенного twig-шаблона" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
