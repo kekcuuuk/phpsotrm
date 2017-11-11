@@ -18,6 +18,7 @@
     <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="JSClassNamingConvention" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="JSEqualityComparisonWithCoercion" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnfilteredForInLoop" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="LocalVariableNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
@@ -25,7 +26,6 @@
     <option name="m_minLength" value="1" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
-  <inspection_tool class="NegatedIfStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonBlockStatementBodyJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ObjectAllocationIgnoredJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ParameterNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
