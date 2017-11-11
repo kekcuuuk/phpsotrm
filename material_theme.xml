@@ -2,6 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
+    <option name="tabsHeight" value="50" />
+    <option name="isCompactStatusBar" value="true" />
     <option name="defaultBackground" value="" />
   </component>
 </application>
