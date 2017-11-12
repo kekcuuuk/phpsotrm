@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="trigger" type="PLAIN_TEXT" />
       <mapping pattern="checkoxes_dropdown" type="Twig" />
+      <mapping pattern="exist-group" type="Twig" />
     </extensionMap>
   </component>
 </application>
