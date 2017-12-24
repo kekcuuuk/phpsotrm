@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="array" type="PHP" />
       <mapping pattern="asd.php" type="PHP" />
+      <mapping ext="bckp" type="PHP" />
       <mapping pattern="BaseController.php" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping ext="ru" type="PLAIN_TEXT" />
