@@ -2,9 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="array" type="PHP" />
+      <mapping pattern="asd.php" type="PHP" />
+      <mapping ext="bckp" type="PHP" />
+      <mapping pattern="BaseController.php" type="PLAIN_TEXT" />
+      <mapping pattern="cron" type="PLAIN_TEXT" />
+      <mapping ext="ru" type="PLAIN_TEXT" />
       <mapping ext="trigger" type="PLAIN_TEXT" />
-      <mapping pattern="exist-group" type="Twig" />
       <mapping pattern="checkoxes_dropdown" type="Twig" />
+      <mapping pattern="exist-group" type="Twig" />
     </extensionMap>
   </component>
 </application>
